@@ -10,3 +10,7 @@ Eclipse Update Sites
 * less: http://www.normalesup.org/~simonet/soft/ow/update/
 * themes: https://raw.github.com/guari/eclipse-ui-theme/master/com.github.eclipseuitheme.themes.updatesite
 * more themes: http://eclipse-color-theme.github.io/update/
+
+Other Installs
+==============
+* Markdown Editor: http://25.io/mou/
